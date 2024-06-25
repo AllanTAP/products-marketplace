@@ -10,13 +10,10 @@ This is a simple API built with Express.js, providing endpoints to get and add p
   - [Installation](#installation)
   - [Running the Server](#running-the-server)
 - [API Endpoints](#api-endpoints)
-  - [Get Status](#get-status)
   - [Get Items](#get-items)
   - [Add Item](#add-item)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
