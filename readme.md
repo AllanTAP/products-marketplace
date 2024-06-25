@@ -1,6 +1,6 @@
 # Items API
 
-![Express](https://img.shields.io/badge/Express-4.17.1-blue) ![Node.js](https://img.shields.io/badge/Node.js-14.x-green) ![UUID](https://img.shields.io/badge/UUID-v4-orange) ![CORS](https://img.shields.io/badge/CORS-enabled-yellow)
+![Express](https://img.shields.io/badge/Express-4.17.1-blue) ![Node.js](https://img.shields.io/badge/Node.js-21.3-green) ![UUID](https://img.shields.io/badge/UUID-v4-orange) ![CORS](https://img.shields.io/badge/CORS-enabled-yellow)
 
 This is a simple API built with Express.js, providing endpoints to get and add products. The API uses CORS for handling cross-origin requests and UUID for generating unique item IDs.
 
