@@ -25,8 +25,8 @@ This is a simple API built with Express.js, providing endpoints to get and add p
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/AllanTAP/items-api.git
-   cd items-api
+   git clone https://github.com/AllanTAP/products-marketplace-backend.git
+   cd products-marketplace-backend
    ```
 
 2. **Install dependencies**
